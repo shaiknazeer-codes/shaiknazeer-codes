@@ -69,4 +69,27 @@ A simple and responsive task management application.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiknazeer-codes&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaiknazeer-codes&theme=tokyonight" />
+</p>
+
+---
+
+## Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaiknazeer-codes&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/shaiknazeer-codes
+- Email: shaiknazeer10th@gmail.com
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
