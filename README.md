@@ -1,16 +1,103 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shaik Nazeer</h1>
 
-<!--
-**shaiknazeer-codes/shaiknazeer-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Full Stack Developer | Next.js | React | MongoDB | JavaScript</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Next.js+Developer;React+Developer;MongoDB+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/shaiknazeer-codes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://url-shortner-six-jade.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+- 💻 Full Stack Web Developer
+- 🚀 Passionate about building responsive and user-friendly web applications
+- 🌱 Currently learning advanced Next.js and backend development
+- 🎯 Interested in Software Development and Open Source
+- 📌 Open to Internship and Software Developer opportunities
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## Featured Projects
+
+### SnapLink – URL Shortener
+
+A full-stack URL Shortener built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
+
+**Live Demo**
+
+https://url-shortner-six-jade.vercel.app
+
+**Repository**
+
+https://github.com/shaiknazeer-codes/url_shortner
+
+---
+
+### Password Manager
+
+A secure password manager built with JavaScript and MongoDB.
+
+---
+
+### Spotify Clone
+
+A responsive Spotify user interface built using HTML, CSS, and JavaScript.
+
+---
+
+### ToDo List App
+
+A simple and responsive task management application.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaiknazeer-codes&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiknazeer-codes&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaiknazeer-codes&theme=tokyonight" />
+</p>
+
+---
+
+## Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaiknazeer-codes&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/shaiknazeer-codes
+- Portfolio: https://url-shortner-six-jade.vercel.app
+- Email: shaiknazeer10th@gmail.com
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b>
+</p>
