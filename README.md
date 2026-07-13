@@ -16,18 +16,18 @@
 
 ## About Me
 
-- 💻 Full Stack Web Developer
-- 🚀 Passionate about building responsive and user-friendly web applications
-- 🌱 Currently learning advanced Next.js and backend development
-- 🎯 Interested in Software Development and Open Source
-- 📌 Open to Internship and Software Developer opportunities
+- Full Stack Web Developer
+- Passionate about building responsive and user-friendly web applications
+- Currently learning advanced Next.js and backend development
+- Interested in Software Development and Open Source
+- Open to Internship and Software Developer opportunities
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nextjs,tailwind,nodejs,express,mongodb,vscode" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ https://github.com/shaiknazeer-codes/url_shortner
 
 ### Password Manager
 
-A secure password manager built with JavaScript and MongoDB.
+A secure password manager built with JavaScript, Express.js, and MongoDB.
 
 ---
 
@@ -69,27 +69,4 @@ A simple and responsive task management application.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiknazeer-codes&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shaiknazeer-codes&theme=tokyonight" />
-</p>
-
----
-
-## Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaiknazeer-codes&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-## Connect With Me
-
-- GitHub: https://github.com/shaiknazeer-codes
-- Email: shaiknazeer10th@gmail.com
-
----
-
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
+<p align="
