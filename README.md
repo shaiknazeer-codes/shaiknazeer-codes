@@ -10,9 +10,6 @@
   <a href="https://github.com/shaiknazeer-codes">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://url-shortner-six-jade.vercel.app">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-blue?style=for-the-badge" />
-  </a>
 </p>
 
 ---
@@ -40,10 +37,6 @@
 ### SnapLink – URL Shortener
 
 A full-stack URL Shortener built with **Next.js**, **MongoDB**, and **Tailwind CSS**.
-
-**Live Demo**
-
-https://url-shortner-six-jade.vercel.app
 
 **Repository**
 
@@ -93,7 +86,6 @@ A simple and responsive task management application.
 ## Connect With Me
 
 - GitHub: https://github.com/shaiknazeer-codes
-- Portfolio: https://url-shortner-six-jade.vercel.app
 - Email: shaiknazeer10th@gmail.com
 
 ---
